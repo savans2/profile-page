@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import ImageSection from './components/ImageSection';
+import ImageSection from './components/CoverPicture';
 import AboutSection from './components/AboutSection';
 
 function App() {
